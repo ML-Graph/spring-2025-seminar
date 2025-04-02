@@ -7,4 +7,4 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
 ---
 **Course Materials:**
-- [Slides](https://ml-graph.github.io/spring-2025/static_files/presentations/Overview.pdf)
+- [Slides](https://ml-graph.github.io/spring-2025-seminar/static_files/presentations/Overview.pdf)

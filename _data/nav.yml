@@ -11,10 +11,6 @@ items:
   name: Paper
   icon_class: fas fa-book-reader
 
-- url: /project/
-  name: Project
-  icon_class: fas fa-project-diagram
-
 - url: /grade/
   name: Grade
   icon_class: fas fa-pencil-ruler

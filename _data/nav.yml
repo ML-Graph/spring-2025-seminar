@@ -15,10 +15,6 @@ items:
   name: Project
   icon_class: fas fa-project-diagram
 
-- url: /materials/
-  name: Materials
-  icon_class: fas fa-book
-
 - url: /grade/
   name: Grade
   icon_class: fas fa-pencil-ruler

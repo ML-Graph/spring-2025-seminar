@@ -35,6 +35,7 @@ permalink: /project/
 Here is an example of the one-course project.
 - [Project Report Template](https://ml-graph.github.io/winter-2025/static_files/Federated_Learning_for_Document_Classification.pdf)
 
+Topics
 - **Agentic Learning**
   - Multi-Agentic Collaboration
   - Graph-enhanced Agentic Reasoning and Planning

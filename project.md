@@ -34,3 +34,73 @@ permalink: /project/
 
 Here is an example of the one-course project.
 - [Project Report Template](https://ml-graph.github.io/winter-2025/static_files/Federated_Learning_for_Document_Classification.pdf)
+
+- **Agentic Learning**
+  - Multi-Agentic Collaboration
+  - Graph-enhanced Agentic Reasoning and Planning
+  - Graph-based Memory Systems
+  - Agentic Social Network Analysis
+
+- **Multi-Modal Graph Learning**
+  - Text-rich Graph Learning
+  - Image-rich Graph Learning
+  - Graph and Other Modality Learning
+
+- **Neural-Symbolic Harmonization**
+  - Symbolic-enhanced Neural Learning
+  - Neural-enhanced Symbolic Learning
+  - Knowledge Representation
+  - Learning and Inference
+  - Logic and Reasoning
+
+- **Graph Retrieval-augmented Generation (GraphRAG)**
+  - Graph-enhanced Retrieval
+  - Graph-enhanced Generation
+  - Graph Knowledge Base Construction and Management
+  - Query Topology Analysis
+  - Agentic Graph Retrieval
+
+- **Graph Generative Models**
+  - Continuous Graph Diffusion
+  - Discrete Graph Diffusion
+  - LLM for Graph Generation
+  - Complex Graph Generation: Multi-attributed Graph, Dynamic Graph Generation, etc.
+
+- **Expressiveness and Generalization of Graph Models**
+  - Expressiveness of Graph Machine Learning Models
+  - Complex Topology Modeling
+
+- **Graph Foundational Models**
+  - Foundational Graph Model Design
+  - Graph Transferability Analysis
+  - LLMs for Graph Learning
+
+- **Graph Combinatorial Optimization**
+
+- **Scalable Graph Machine Learning**
+
+- **Data-centric Graph Machine Learning**
+  - Distribution Shift
+  - Imbalance
+  - Limited Supervision
+
+- **Trustworthy Graph Machine Learning**
+  - Reliability
+  - Robustness
+  - Resilience
+  - Privacy
+  - Explainability
+  - Attack and Defense
+
+- **Applications**
+  - Social Network Analysis
+  - Recommender System
+  - Neural Biology
+  - Biochemistry
+  - Cybersecurity
+  - Infrastructure Networks
+  - Spatial-Temporal Learning
+  - Document Mining
+  - Psychology
+  - Computer System
+  - Hardware Design

@@ -7,6 +7,4 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
 ---
 **Course Materials:**
-- Paper Presentation 1
-- Paper Presentation 2
 - Project Discussion

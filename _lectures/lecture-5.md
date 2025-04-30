@@ -8,4 +8,4 @@ links:
 ---
 **Course Materials:**
 - Virtual Recording
-- 1 on 1 Virtual Paper Presentation - Nihal
+- Virtual Paper Presentation - Nihal

@@ -7,5 +7,6 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
 ---
 **Course Materials:**
-- Paper Presentation - Daniel
+- Virtual Paper Presentation - Daniel
+- Virtual Paper Presentation - Eric
 - Project Discussion
